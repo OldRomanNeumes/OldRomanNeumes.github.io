@@ -8,8 +8,9 @@ permalink: /about/
 
 The Old Roman Neumes initiative is currently developed by
 
-Barbara Bolognese
-Aurelio Carlucci
+- Barbara Bolognese
+
+- Aurelio Carlucci
 
 ### Acknowledgements
 
