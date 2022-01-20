@@ -18,5 +18,5 @@ We are grateful to the authors of the Greciliae and Joseph_Pothier fonts.
 
 ### Contact
 
-[iohannes.oldroman@gmail.com@gmail.com](mailto:iohannes.oldroman@gmail.com)
+[iohannes.oldroman@gmail.com](mailto:iohannes.oldroman@gmail.com)
 
