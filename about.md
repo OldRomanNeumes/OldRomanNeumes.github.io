@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Authors
 
-### More Information
+The Old Roman Neumes initiative is currently developed by
 
-A place to include any other types of information that you'd like to include about yourself.
+Barbara Bolognese
+Aurelio Carlucci
 
-### Contact me
+### Acknowledgements
+
+We are grateful to the authors of the Greciliae and Joseph_Pothier fonts.
+
+### Contact
 
 [email@domain.com](mailto:email@domain.com)
+
