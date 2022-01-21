@@ -31,7 +31,7 @@ title: Project
  We aim at having our fork pulled into the main Gregorio branch, if this is feasible.
 
 ## Licensing
-The accompaning documentation and new font is Copyright (C) 2020-2021 Old Roman Neumes,
+The accompaning documentation and new font is Copyright (C) 2020-2022 Old Roman Neumes,
 and is released under a custom
 [license](https://github.com/OldRomanNeumes/Iohannes/blob/main/LICENSE.txt),
 which is inspired by the 
