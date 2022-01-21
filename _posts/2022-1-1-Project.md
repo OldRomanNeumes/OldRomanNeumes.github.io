@@ -35,6 +35,6 @@ The accompaning documentation and new font is Copyright (C) 2020-2021 Old Roman 
 and is released under a custom
 [license](https://github.com/OldRomanNeumes/Iohannes/blob/main/LICENSE.txt),
 which is inspired by the 
-[SIL Open Font License]{https://scripts.sil.org/OFL}. The only addition to the SIL OFL 
+[SIL Open Font License](https://scripts.sil.org/OFL). The only addition to the SIL OFL 
 license is the requirement to acknowledge the authors in other derivative works using 
 the new font.
